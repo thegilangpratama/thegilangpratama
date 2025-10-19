@@ -2,7 +2,9 @@
 
 Hi there! I’m **Gilang**!, a full-stack software engineer with 4+ years of experience building scalable web applications and backend systems. I enjoy tackling complex problems, leading development projects, and delivering user-friendly solutions that make an impact.  
 
-I’ve worked across diverse industries, from finance and insurance to renewable energy and consumer tech — with recent experience at **Samsung Research Indonesia** (SRIN) improving large-scale analytics systems. Beyond my professional role, I also explore side projects like HRIS Management Systemn and agile management tools, blending technical depth with intuitive design.  
+I’ve worked across diverse industries, from finance and insurance to renewable energy and consumer tech — with recent experience at **Samsung Research Indonesia** (SRIN) improving large-scale analytics systems. Beyond my professional role, I also explore side projects like HRIS Management Systemn and agile management tools, blending technical depth with intuitive design.
+
+Outside of coding, I’m a fitness enthusiast and regular at the gym. I believe in keeping both a sharp mind and a sharp body, discipline, focus, and consistency in training mirror the way I approach engineering challenges. This balance fuels my energy, creativity, and resilience in both life and work.
 
 I thrive in fast-paced, collaborative environments, enjoy mentoring and learning, and always aim to bridge technical excellence with business value.
 

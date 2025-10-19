@@ -24,7 +24,7 @@ I thrive in fast-paced, collaborative environments, enjoy mentoring and learning
 
 ## Cloud & DevOps
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)!   [Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
 ---

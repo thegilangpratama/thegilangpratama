@@ -38,4 +38,4 @@ I thrive in fast-paced, collaborative environments, enjoy mentoring and learning
 
 # Connect with Me
 
-📌 [LinkedIn](https://www.linkedin.com/in/gilangkpratama/)
+📌 [LinkedIn](https://www.linkedin.com/in/gilang-pratam/)

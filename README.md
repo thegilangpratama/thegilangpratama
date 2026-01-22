@@ -14,7 +14,7 @@ I thrive in fast-paced, collaborative environments, enjoy mentoring and learning
 
 ## Programming Languages
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-F0900A?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-F0900A?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 
 ## Web Frameworks & Tools
 
@@ -32,7 +32,9 @@ I thrive in fast-paced, collaborative environments, enjoy mentoring and learning
 
 # In Progress
 
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DE002D?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
 

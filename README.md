@@ -1,3 +1,6 @@
+![Samsung SW Expert Academy](https://img.shields.io/badge/Samsung%20SW%20Expert%20Academy-Advanced-1428A0?style=for-the-badge&logo=samsung&logoColor=white&labelColor=F59E0B)
+
+
 # About Me
 
 Hi there! I’m **Gilang**!, a full-stack software engineer with 5+ years of experience building scalable web applications and backend systems. I enjoy tackling complex problems, leading development projects, and delivering user-friendly solutions that make an impact.  

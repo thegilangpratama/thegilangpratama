@@ -1,12 +1,16 @@
 # About Me
 
-Hi there! I’m **Gilang**!, a full-stack software engineer with 5+ years of experience building scalable web applications and backend systems. I enjoy tackling complex problems, leading development projects, and delivering user-friendly solutions that make an impact.  
+Hi there! I'm **Gilang**, a Full-Stack Software Engineer with 5+ years of experience building scalable web applications, backend systems, and enterprise software solutions.
 
-I’ve worked across diverse industries, from finance and insurance to renewable energy and consumer tech — with recent experience at **Samsung Research Indonesia** (SRIN) improving large-scale analytics systems. Beyond my professional role, I also explore side projects like HRIS Management Systemn and agile management tools, blending technical depth with intuitive design.
+My experience spans multiple industries including finance, insurance, renewable energy, and consumer technology. Most recently, I have been contributing to large-scale analytics and enterprise systems at **Samsung Research Indonesia (SRIN)**, working across modern web technologies, backend services, software architecture, and development process improvements.
 
-Outside of coding, I’m a fitness enthusiast and regular at the gym. I believe in keeping both a sharp mind and a sharp body, discipline, focus, and consistency in training mirror the way I approach engineering challenges. This balance fuels my energy, creativity, and resilience in both life and work.
+I enjoy solving complex engineering challenges, leading development initiatives, and delivering solutions that balance technical excellence with business value. My expertise covers full-stack development, cloud platforms, DevOps practices, CI/CD workflows, system integration, and software lifecycle management.
 
-I thrive in fast-paced, collaborative environments, enjoy mentoring and learning, and always aim to bridge technical excellence with business value.
+In addition to application development, I actively explore emerging engineering practices such as **AI-assisted development workflows using tools like Cline**, automated testing strategies, and behavior-driven development (BDD). I have hands-on experience working with **Playwright**, **Cucumber BDD**, unit testing, and modern software quality assurance approaches to improve reliability and development efficiency.
+
+Outside of my professional work, I build side projects ranging from HRIS platforms to agile management tools, combining technical depth with intuitive user experiences. I'm also a fitness enthusiast who believes that discipline, consistency, and continuous improvement apply equally to both software engineering and personal growth.
+
+I thrive in collaborative environments, enjoy mentoring and learning from others, and continuously seek opportunities to leverage technology to solve meaningful problems.
 
 ---
 
@@ -39,6 +43,19 @@ I thrive in fast-paced, collaborative environments, enjoy mentoring and learning
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+## Testing & Quality Assurance
+
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![BDD](https://img.shields.io/badge/-Behavior%20Driven%20Development-4B5563?style=for-the-badge)
+![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-2563EB?style=for-the-badge)
+
+## AI-Assisted Development
+
+![Cline](https://img.shields.io/badge/-Cline-6D28D9?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-9333EA?style=for-the-badge)
+![AI Assisted Development](https://img.shields.io/badge/-AI%20Assisted%20Development-0EA5E9?style=for-the-badge)
 
 ## Cloud & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
